@@ -12,7 +12,7 @@ I'm excited to invite you all to my birthday celebration next week! We'll be gat
 
 After dinner, we can walk over to Regal Green Hills for a screening of [Longlegs](https://www.youtube.com/watch?v=OG7wOTE8NhE). I can't wait to celebrate with all of you!
 
-Yes, I'm aware that using GitHub for this is ridiculous, but I said it as a joke, and then wanted to try it 😂
+Yes, I'm aware that using GitHub for this is ridiculous, but I said it as a joke, and then wanted to try it 😂 In the future, I'm gonna automate some of the tasks (like using Actions to take RSVPs to update the guest list and sending out invitations) just to dogfood GitHub a little for fun.
 
 **Trailer**  
 [![LONG LEGS TRAILER](https://img.youtube.com/vi/OG7wOTE8NhE/0.jpg)](https://www.youtube.com/watch?v=OG7wOTE8NhE) 
