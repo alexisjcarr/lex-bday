@@ -35,7 +35,6 @@ Looking forward to celebrating with you!
 - **Dietary Restrictions:** If you have any dietary restrictions or preferences, please let me know in advance so I can accommodate everyone.
 
 ## Links
-- [Guest List](guest-list.md)
 - [Menu](https://www.emmysquaredpizza.com/green-hills-menus/#lunch-dinner)
 - [Movie Details](https://en.wikipedia.org/wiki/Longlegs)
 
