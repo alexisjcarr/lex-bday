@@ -24,7 +24,7 @@ Yes, I'm aware that using GitHub for this is ridiculous, but I said it as a joke
 
 ## RSVP
 
-Please let me know by July 10th if you can make it, so I can finalize the reservations. You can just text me to let me know.
+Please let me know by July 10th if you can make it, so I can finalize the reservations. You can just text me to let me know. I'll collect movie fees via Venmo after RSVP.
 
 Looking forward to celebrating with you!
 
