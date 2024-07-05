@@ -36,10 +36,8 @@ Looking forward to celebrating with you!
 
 ## Links
 - [Guest List](guest-list.md)
-- [Menu](menu.md)
-- [Movie Details](movie-details.md)
-- [FAQ](faq.md)
-- [Activities](activities.md)
+- [Menu](https://www.emmysquaredpizza.com/green-hills-menus/#lunch-dinner)
+- [Movie Details](https://en.wikipedia.org/wiki/Longlegs)
 
 ## Directions
 
