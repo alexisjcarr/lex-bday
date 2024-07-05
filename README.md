@@ -1,6 +1,4 @@
-# Alexis' 31st Birthday
-
-# 🎉 You're Invited to Alexis's Birthday Party! 🎉
+# 🎉 You're Invited to Alexis' Birthday Party! 🎉
 
 **Date:** July 12th, 2024  
 **Time:** 6:30 PM  
