@@ -8,7 +8,7 @@
 
 Hey everyone!
 
-I'm excited to invite you all to my birthday celebration next week! We'll be gathering at Emmy Squared Pizza, to enjoy some delicious pizza (gluten-friendly if you have issues like me), and great company.
+I'm excited to invite you all to my birthday celebration next week! We'll be gathering at Emmy Squared Pizza, to enjoy some delicious pizza (gluten-friendly if you have issues like me) and great company.
 
 After dinner, we can walk over to Regal Green Hills for a screening of [Longlegs](https://www.youtube.com/watch?v=OG7wOTE8NhE). I can't wait to celebrate with all of you!
 
